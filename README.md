@@ -8,9 +8,9 @@ Official implementation of **"Incomplete Data, Complete Dynamics: A Diffusion Ap
 
 > **TL;DR:** A principled diffusion framework for learning physical dynamics from incomplete observations, with theoretical convergence guarantees.
 
-<!-- TODO: Add teaser figure here -->
-<!-- ![Teaser]([ctx_qry_selection.pdf](https://github.com/user-attachments/files/25002982/ctx_qry_selection.pdf)
-assets/teaser.png) -->
+<p align="center">
+  <img src="ctx_qry_selection.png" width="90%">
+</p>
 
 ## 📖 Overview
 
